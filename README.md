@@ -23,4 +23,4 @@ Online Shopping app using mysql,thymeleaf .
 
 
 
-This Project i am learning from Youtube channel. Thank you Pabhita Sir.
+This Project i am learning from Youtube channel. Thank you Pabitra Sir.
